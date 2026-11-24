@@ -11,6 +11,7 @@ A chibi Frieren that lives on your Hyprland desktop. Click her to chat with [ope
 | Repository | What it is |
 | --- | --- |
 | [frieren-desk](https://github.com/frieren-labs/frieren-desk) | Chibi Frieren desktop pet for Hyprland with opencode chat |
+| [frieren-dashboard](https://github.com/frieren-labs/frieren-dashboard) | Read-only web dashboard over `frieren.db` (turns, tools, history, reminders) |
 
 ## Summon
 
